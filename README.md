@@ -42,7 +42,6 @@ The goal of designing a camping app is to create a convenient and user-friendly 
 ![image](https://github.com/user-attachments/assets/f85d62c3-27af-4548-b60f-2fc5e8207baa)
 
 **key Mockups:**
-![image](https://github.com/user-attachments/assets/b6b69305-51f1-4337-90d5-2dac13715115) 
 
 ![image](https://github.com/user-attachments/assets/181121e1-3046-42bd-950b-1ef936c5096a)
 
