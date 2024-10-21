@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a65cd154-a615-4e2a-b4f7-a067e052beac)#  UX design Project
+#  UX design Project
 UX/UI designer — I designed a mobile app from beginning to end.
 
 As an entry level UX designer, responsibilities included :
@@ -27,15 +27,14 @@ The goal of designing a camping app is to create a convenient and user-friendly 
 
 **User Personas:**
 
-![photo_2024-08-14 13.18.42.jpeg](https://prod-files-secure.s3.us-west-2.amazonaws.com/8f3923de-6d4b-4c8b-be4b-c111c83ddeec/1d2f33b6-e720-44ba-a2b7-7289a3c5b059/photo_2024-08-14_13.18.42.jpeg)
-
-![UserPersona3.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/8f3923de-6d4b-4c8b-be4b-c111c83ddeec/cc117d8a-43c6-4a18-a6c9-de51cc499800/db543c6b-1a08-4ada-bfab-558b3e735b1c.png)
-
 **User Journey:**
 ![image](https://github.com/user-attachments/assets/32742ba9-569f-44e4-8478-4635d7155f10)
 
 **Design process:**
-![image](https://github.com/user-attachments/assets/f0b1e13a-7613-4268-9678-3526ed656215) ![image](https://github.com/user-attachments/assets/7d4f0617-f2fa-4a09-99a5-b4e894e35c69)
+
+![image](https://github.com/user-attachments/assets/f0b1e13a-7613-4268-9678-3526ed656215) 
+
+![image](https://github.com/user-attachments/assets/7d4f0617-f2fa-4a09-99a5-b4e894e35c69)
 
 ![image](https://github.com/user-attachments/assets/71cdeba5-a3b8-4c41-a2dd-eeada00ebfb8)
 
@@ -43,7 +42,9 @@ The goal of designing a camping app is to create a convenient and user-friendly 
 ![image](https://github.com/user-attachments/assets/f85d62c3-27af-4548-b60f-2fc5e8207baa)
 
 **key Mockups:**
-![image](https://github.com/user-attachments/assets/b6b69305-51f1-4337-90d5-2dac13715115)  ![image](https://github.com/user-attachments/assets/181121e1-3046-42bd-950b-1ef936c5096a)
+![image](https://github.com/user-attachments/assets/b6b69305-51f1-4337-90d5-2dac13715115) 
+
+![image](https://github.com/user-attachments/assets/181121e1-3046-42bd-950b-1ef936c5096a)
 
 ![image](https://github.com/user-attachments/assets/7ef264b7-9124-4049-b2d1-e6e4ea48080d)
 
